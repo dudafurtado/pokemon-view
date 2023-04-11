@@ -1,0 +1,8 @@
+header {
+    background-color: var(--darker-blue);
+}
+
+.logo-pokemon {
+    height: 80px;
+    width: 220px;
+}
