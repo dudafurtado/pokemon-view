@@ -1,0 +1,12 @@
+footer {
+  width: 95%;
+  height: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 40px;
+  background: linear-gradient(180deg, var(--light-orange) 0%, var(--dark-orange) 100%);
+  border-radius: 20px;
+}

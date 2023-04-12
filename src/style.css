@@ -4,10 +4,11 @@
   box-sizing: border-box;
 
   max-width: 100vw;
-  min-height: 100vh;
 
   --dark-blue: #190D35;
   --darker-blue:#060B28;
-  --orange: linear-gradient(180deg, #EE8328 0%, #E14318 100%);
+  
+  --light-orange: #EE8328;
+  --dark-orange: #E14318;
 }
 

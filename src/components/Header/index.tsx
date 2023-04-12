@@ -12,7 +12,7 @@ export default function Header () {
         <header>
             <img className='logo-pokemon'
             src={LogoPokemon} alt="Desenho da marca Pokemon com suas palavras em fonte alta" />
-            <div
+            <nav
             >
             <Link to='https://www.linkedin.com/in/mariaeduardafurtado/'>
             <img className='social-media' 
@@ -22,7 +22,7 @@ export default function Header () {
                 <img className='social-media' 
                 src={LogoLinkedin} alt="Desenho que representa a marca da rede social Linkedin" />
             </Link>
-            </div>
+            </nav>
         </header>
         </>
     )
